@@ -1,6 +1,7 @@
 # Blog Page Project
 
 This is a front-end project built using **React** and **Next.js**. The blog page serves as a platform to showcase blog posts, sharing snippets of key lessons and insights gained during my time at **KamiLimu**.
+Here is the **live demo**. Do check it out at: https://kamilimublogs.netlify.app/
 
 ## Features
 
